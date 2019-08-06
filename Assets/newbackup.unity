@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.43966746, g: 0.48006016, b: 0.52500975, a: 1}
+  m_IndirectSpecularColor: {r: 0.43966657, g: 0.48005927, b: 0.52500904, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1169,6 +1169,7 @@ GameObject:
   - component: {fileID: 283404749}
   - component: {fileID: 283404748}
   - component: {fileID: 283404751}
+  - component: {fileID: 283404752}
   m_Layer: 0
   m_Name: TurnPoint
   m_TagString: TurnPoint
@@ -1282,6 +1283,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &283404752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283404746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c323912323da3284a95c5f75bdec56bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &295760640 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6186441846659093185, guid: 3f8600c8b282d6b46abd1d16f7cf1935,
@@ -2197,6 +2210,7 @@ GameObject:
   - component: {fileID: 533879690}
   - component: {fileID: 533879689}
   - component: {fileID: 533879692}
+  - component: {fileID: 533879693}
   m_Layer: 0
   m_Name: TurnPoint
   m_TagString: TurnPoint
@@ -2310,6 +2324,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &533879693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 533879687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c323912323da3284a95c5f75bdec56bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &557202956
 GameObject:
   m_ObjectHideFlags: 0
