@@ -11,7 +11,7 @@ public class money : MonoBehaviour
     void Start()
     {
         renderer = this.GetComponent<Renderer>();
-        StartCoroutine(rotateMoney());
+        //StartCoroutine(rotateMoney());
     }
 
     // Update is called once per frame
@@ -19,7 +19,7 @@ public class money : MonoBehaviour
     {
         
     }
-    IEnumerator rotateMoney()
+    /*IEnumerator rotateMoney()
     {
         while (collected == false)
         {
@@ -33,6 +33,7 @@ public class money : MonoBehaviour
             
         }
     }
+    */
     private void OnTriggerEnter2D(Collider2D collision)
     {
         collected = true;

@@ -40,23 +40,39 @@ public class enemyScript : MonoBehaviour
 
         if (canShoot)
         {
+            
             if(collision.gameObject.tag == "Player")
             {
-                
+
+                Transform drawingTrans = this.gameObject.transform.Find("drawing").transform;
+
+
+                RaycastHit2D[] holdme = Physics2D.RaycastAll(drawingTrans.position, (playerPos.transform.position - drawingTrans.position));
+                foreach (RaycastHit2D lm in holdme) {
+                    Debug.Log("LM Object is: " + lm.collider.gameObject.tag);
+                }
+                /*
                 foreach (RaycastHit2D l in Physics2D.RaycastAll(this.gameObject.transform.Find("drawing").transform.position, playerPos.transform.position))
                 {
-                    if(l.collider.gameObject.tag == "wall" || l.collider.gameObject.tag == "item1")
+                  */
+                foreach (RaycastHit2D l in Physics2D.RaycastAll(drawingTrans.position, (playerPos.transform.position - drawingTrans.position)))
+                {
+                   
+
+                    if (l.collider.gameObject.tag == "wall" || l.collider.gameObject.tag == "item1")
                     {
                         collidedWall = true;
                         break;
                     }
                 }
             }
+            
+
             if(!collidedWall && collision.gameObject.tag == "Player")
             {
                 Shoot();
             }
-
+            
 
             
         }
