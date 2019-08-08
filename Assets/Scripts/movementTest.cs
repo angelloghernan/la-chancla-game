@@ -14,13 +14,19 @@ public class movementTest : MonoBehaviour
     bool isMoving = false;
     public inventory f;
     public Renderer renderer;
-    public movementTest S;
+    public bool collectedKeys;
+    public bool collectedPhone;
+    public bool collectedFlowers;
+    public static movementTest S;
     public int radius;
     public bool isAlive;
     GameObject[] nearbyEnemies;
     // Start is called before the first frame update
     void Start()
     {
+        collectedFlowers = false;
+        collectedKeys = false;
+        collectedPhone = false;
         S = this;
         rb = GetComponent<Rigidbody2D>();
         animator = this.GetComponent<Animator>();
