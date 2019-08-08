@@ -17,7 +17,7 @@ public class enemyScript : MonoBehaviour
     void Start()
     {
         //S = this;
-        canShoot = true; 
+        canShoot = true;
         speed = 15;
         collidedWall = false;
         //angle1 = transform.eulerAngles.z;
@@ -27,72 +27,72 @@ public class enemyScript : MonoBehaviour
     //private void OnTriggerEnter2D(Collider2D collision)
     private void OnTriggerEnter2D(Collider2D turner)
     {
+        Debug.Log("TRIGGER ENTER");
         if (turner.gameObject.tag == "TurnPoint")
         {
             speed = -speed;
-                    
+
         }
+    }
+    private void onColliderEnter2D(Collider2D turner)
+    {
+        Debug.Log("Trigger Enter Test");
+
+
+
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
         collidedWall = false;
-        
+
 
         if (canShoot)
         {
-            
-            if(collision.gameObject.tag == "Player")
+            if (collision.gameObject.tag == "Player")
             {
 
-                Transform drawingTrans = this.gameObject.transform.Find("drawing").transform;
-
-
-                RaycastHit2D[] holdme = Physics2D.RaycastAll(drawingTrans.position, (playerPos.transform.position - drawingTrans.position));
-                foreach (RaycastHit2D lm in holdme) {
-                    Debug.Log("LM Object is: " + lm.collider.gameObject.tag);
-                }
                 /*
-                foreach (RaycastHit2D l in Physics2D.RaycastAll(this.gameObject.transform.Find("drawing").transform.position, playerPos.transform.position))
+                foreach (RaycastHit2D l in Physics2D.RaycastAll(this.gameObject.transform.position, playerPos.transform.position))
                 {
-                  */
-                foreach (RaycastHit2D l in Physics2D.RaycastAll(drawingTrans.position, (playerPos.transform.position - drawingTrans.position)))
-                {
-                   
-
-                    if (l.collider.gameObject.tag == "wall" || l.collider.gameObject.tag == "item1")
+                    Debug.DrawRay(this.gameObject.transform.position, playerPos.transform.position, Color.green);
+                    if (l.collider.gameObject.tag == "wall")
                     {
+                        Debug.DrawRay(this.gameObject.transform.position, playerPos.transform.position, Color.green, 10.0f,false);
                         collidedWall = true;
+                        canShoot = true;
                         break;
                     }
                 }
+                
             }
-            
+            */
 
-            if(!collidedWall && collision.gameObject.tag == "Player")
+                if (!collidedWall && collision.gameObject.tag == "Player")
+                {
+                    Shoot();
+                }
+
+
+
+            }
+
+            /*if (!collidedWall && !(collision.gameObject.tag == "Player"))
             {
-                Shoot();
+                if (collision.gameObject.tag == "TurnPoint")
+                {
+                    Debug.Log(speed);
+                    speed = -speed;
+                }
             }
-            
-
-            
-        }
-
-    /*if (!collidedWall && !(collision.gameObject.tag == "Player"))
-    {
-        if (collision.gameObject.tag == "TurnPoint")
-        {
-            Debug.Log(speed);
-            speed = -speed;
+            */
         }
     }
-    */
-}
-    
-    
-    
-        
-        
-    
+
+
+
+
+
+
 
     public void Shoot()
     {
@@ -103,10 +103,10 @@ public class enemyScript : MonoBehaviour
             //Instantiate(bulletObject, startPlace.transform.position, Quaternion.identity);
             var bull = Instantiate(bulletObject, startPlace.transform.position, Quaternion.identity);
             bull.transform.SetParent(grid.transform);
-            bull.GetComponent<bulletScript>().thrust = (7-speed2) * 250;
+            bull.GetComponent<bulletScript>().thrust = (7 - speed2) * 250;
 
             // turn off the cannon box object
-            
+
             // start the reload timer
             StartCoroutine(ReloadTimer());
         }
@@ -142,7 +142,8 @@ public class enemyScript : MonoBehaviour
             speed = -speed;
             Debug.Log(speed);
         }*/
-        transform.Rotate(new Vector3( 0,0,Time.deltaTime * speed * speed2));
-        
+        transform.Rotate(new Vector3(0, 0, Time.deltaTime * speed * speed2));
+
     }
 }
+    
