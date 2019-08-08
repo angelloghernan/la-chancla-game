@@ -12,6 +12,8 @@ TagManager:
   - realWall
   - TurnPoint
   - HardWoodTile
+  - kitchenTile
+  - carpetTile
   layers:
   - Default
   - TransparentFX

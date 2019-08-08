@@ -31,6 +31,7 @@ public class bulletScript : MonoBehaviour
             if(collision.gameObject.tag == "Player")
             {
                 healthScript.S2.updateHealth(-1);
+                SoundManagerScript.S.PlaySound10();
             }
             Destroy(this.gameObject);
         }

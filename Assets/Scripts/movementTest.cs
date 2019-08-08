@@ -20,6 +20,7 @@ public class movementTest : MonoBehaviour
     public static movementTest S;
     public int radius;
     public bool isAlive;
+    private bool isSprint = false;
     GameObject[] nearbyEnemies;
     // Start is called before the first frame update
     void Start()
@@ -36,7 +37,7 @@ public class movementTest : MonoBehaviour
         radius = 4;
         isAlive = true;
         StartCoroutine(checkNearbyEnemies());
-        
+        StartCoroutine(SoundMaker());
     }
 
     // Update is called once per frame
@@ -80,6 +81,7 @@ public class movementTest : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W))
         {
+            
             changeDirection(1);
         }
         else if (Input.GetKey(KeyCode.S))
@@ -105,6 +107,11 @@ public class movementTest : MonoBehaviour
         if (!isMoving)
         {
             changeDirection(4);
+        }
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            MakeWalkingTileNoise();
         }
 
     }
@@ -159,4 +166,73 @@ public class movementTest : MonoBehaviour
 
         }
     }
+    private IEnumerator SoundMaker ()
+    {
+       
+        if (isMoving)
+        {
+            
+            MakeWalkingTileNoise();
+        }
+        yield return new WaitForSeconds(0.75f);
+        StartCoroutine(SoundMaker());
+
+    }
+    void MakeWalkingTileNoise()
+    {
+        Debug.Log("Running Physics Check");
+
+        // cast a ray backwards from the player
+        RaycastHit[] hits;
+        hits = Physics.RaycastAll(transform.position, Vector3.forward, 10.0f);
+
+        foreach (RaycastHit hit in hits)
+        {
+            Debug.Log("hit name: " + hit.transform.name);
+
+            switch (hit.transform.tag) {
+
+                case "HardWoodTile":
+                    Debug.Log("Playing hardwood sound");
+                    
+                    if (isSprint)
+                    {
+                        SoundManagerScript.S.PlaySound5();
+                    }
+                    else
+                    {
+                        SoundManagerScript.S.PlaySound2();
+                    }
+
+                    break;
+
+                case "kitchenTile":
+                    if (isSprint)
+                    {
+                        SoundManagerScript.S.PlaySound6();
+                    }
+                    else
+                    {
+                        SoundManagerScript.S.PlaySound3();
+                    }
+                    break;
+                case "carpetTile":
+                    if (isSprint)
+                    {
+                        SoundManagerScript.S.PlaySound4();
+                    }
+                    else
+                    {
+                        SoundManagerScript.S.PlaySound1();
+                    }
+                    
+                    break;
+                
+                
+            }
+
+        }
+
+    }
+
 }
