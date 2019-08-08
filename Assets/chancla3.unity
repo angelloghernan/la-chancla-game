@@ -255,7 +255,7 @@ GameObject:
   - component: {fileID: 10210818}
   m_Layer: 0
   m_Name: greyCarpet (144)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -272,7 +272,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 177
+  m_RootOrder: 179
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &10210818
 MeshCollider:
@@ -537,7 +537,7 @@ GameObject:
   - component: {fileID: 23518661}
   m_Layer: 0
   m_Name: greyCarpet (114)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -554,7 +554,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 147
+  m_RootOrder: 149
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &23518661
 MeshCollider:
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 34272137}
   m_Layer: 0
   m_Name: greyCarpet (98)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -830,7 +830,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 131
+  m_RootOrder: 132
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &34272137
 MeshCollider:
@@ -1189,7 +1189,7 @@ GameObject:
   - component: {fileID: 46431446}
   m_Layer: 0
   m_Name: greyCarpet (201)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1206,7 +1206,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 224
+  m_RootOrder: 226
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &46431446
 MeshCollider:
@@ -1915,7 +1915,7 @@ GameObject:
   - component: {fileID: 65520022}
   m_Layer: 0
   m_Name: greyCarpet (233)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1932,7 +1932,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 248
+  m_RootOrder: 250
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &65520022
 MeshCollider:
@@ -2007,7 +2007,7 @@ GameObject:
   - component: {fileID: 69623145}
   m_Layer: 0
   m_Name: greyCarpet (131)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2024,7 +2024,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 164
+  m_RootOrder: 166
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &69623145
 MeshCollider:
@@ -2188,7 +2188,7 @@ GameObject:
   - component: {fileID: 86823418}
   m_Layer: 0
   m_Name: greyCarpet (79)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2748,7 +2748,7 @@ GameObject:
   - component: {fileID: 107025967}
   m_Layer: 0
   m_Name: greyCarpet (190)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2765,7 +2765,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 217
+  m_RootOrder: 219
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &107025967
 MeshCollider:
@@ -2932,7 +2932,7 @@ GameObject:
   - component: {fileID: 112586419}
   m_Layer: 0
   m_Name: greyCarpet (130)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2949,7 +2949,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 163
+  m_RootOrder: 165
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &112586419
 MeshCollider:
@@ -3024,7 +3024,7 @@ GameObject:
   - component: {fileID: 114551490}
   m_Layer: 0
   m_Name: greyCarpet (274)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3041,7 +3041,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 307
+  m_RootOrder: 133
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &114551490
 MeshCollider:
@@ -3433,7 +3433,7 @@ GameObject:
   - component: {fileID: 123353674}
   m_Layer: 0
   m_Name: greyCarpet (164)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3450,7 +3450,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 197
+  m_RootOrder: 199
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &123353674
 MeshCollider:
@@ -3525,7 +3525,7 @@ GameObject:
   - component: {fileID: 125959774}
   m_Layer: 0
   m_Name: greyCarpet (209)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3542,7 +3542,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 231
+  m_RootOrder: 233
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &125959774
 MeshCollider:
@@ -3823,7 +3823,7 @@ GameObject:
   - component: {fileID: 134659918}
   m_Layer: 0
   m_Name: greyCarpet (96)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3840,7 +3840,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 129
+  m_RootOrder: 130
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &134659918
 MeshCollider:
@@ -4194,7 +4194,7 @@ GameObject:
   - component: {fileID: 146273520}
   m_Layer: 0
   m_Name: greyCarpet (265)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4211,7 +4211,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 298
+  m_RootOrder: 300
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &146273520
 MeshCollider:
@@ -4286,7 +4286,7 @@ GameObject:
   - component: {fileID: 149110129}
   m_Layer: 0
   m_Name: greyCarpet (203)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4303,7 +4303,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 225
+  m_RootOrder: 227
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &149110129
 MeshCollider:
@@ -4790,7 +4790,7 @@ GameObject:
   - component: {fileID: 158906845}
   m_Layer: 0
   m_Name: greyCarpet (80)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4986,7 +4986,7 @@ GameObject:
   - component: {fileID: 169524974}
   m_Layer: 0
   m_Name: greyCarpet (245)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5003,7 +5003,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 278
+  m_RootOrder: 280
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &169524974
 MeshCollider:
@@ -5738,7 +5738,7 @@ GameObject:
   - component: {fileID: 190728026}
   m_Layer: 0
   m_Name: greyCarpet (145)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5755,7 +5755,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 178
+  m_RootOrder: 180
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &190728026
 MeshCollider:
@@ -6510,7 +6510,7 @@ GameObject:
   - component: {fileID: 206942489}
   m_Layer: 0
   m_Name: greyCarpet (165)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6527,7 +6527,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 198
+  m_RootOrder: 200
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &206942489
 MeshCollider:
@@ -7012,7 +7012,7 @@ GameObject:
   - component: {fileID: 222511510}
   m_Layer: 0
   m_Name: greyCarpet (107)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7029,7 +7029,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 140
+  m_RootOrder: 142
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &222511510
 MeshCollider:
@@ -8004,7 +8004,7 @@ GameObject:
   - component: {fileID: 253030850}
   m_Layer: 0
   m_Name: greyCarpet (283)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8096,7 +8096,7 @@ GameObject:
   - component: {fileID: 253360273}
   m_Layer: 0
   m_Name: greyCarpet (256)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8113,7 +8113,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 289
+  m_RootOrder: 291
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &253360273
 MeshCollider:
@@ -8194,7 +8194,7 @@ GameObject:
   - component: {fileID: 256384706}
   m_Layer: 0
   m_Name: greyCarpet (83)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8211,7 +8211,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 116
+  m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &256384706
 MeshCollider:
@@ -8565,7 +8565,7 @@ GameObject:
   - component: {fileID: 276328595}
   m_Layer: 0
   m_Name: greyCarpet (90)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8582,7 +8582,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 123
+  m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &276328595
 MeshCollider:
@@ -8675,7 +8675,7 @@ GameObject:
   - component: {fileID: 295587542}
   m_Layer: 0
   m_Name: greyCarpet (127)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8692,7 +8692,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 160
+  m_RootOrder: 162
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &295587542
 MeshCollider:
@@ -8773,7 +8773,7 @@ GameObject:
   - component: {fileID: 296025403}
   m_Layer: 0
   m_Name: greyCarpet (250)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8790,7 +8790,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 283
+  m_RootOrder: 285
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &296025403
 MeshCollider:
@@ -8865,7 +8865,7 @@ GameObject:
   - component: {fileID: 298515791}
   m_Layer: 0
   m_Name: greyCarpet (224)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8882,7 +8882,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 245
+  m_RootOrder: 247
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &298515791
 MeshCollider:
@@ -9163,7 +9163,7 @@ GameObject:
   - component: {fileID: 316883719}
   m_Layer: 0
   m_Name: greyCarpet (268)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9180,7 +9180,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 301
+  m_RootOrder: 303
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &316883719
 MeshCollider:
@@ -10372,7 +10372,7 @@ GameObject:
   - component: {fileID: 339465840}
   m_Layer: 0
   m_Name: greyCarpet (156)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10389,7 +10389,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 189
+  m_RootOrder: 191
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &339465840
 MeshCollider:
@@ -10662,7 +10662,7 @@ PrefabInstance:
     - target: {fileID: 6186441846659093185, guid: 3f8600c8b282d6b46abd1d16f7cf1935,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 23.5
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6186441846659093185, guid: 3f8600c8b282d6b46abd1d16f7cf1935,
         type: 3}
@@ -10770,7 +10770,7 @@ GameObject:
   - component: {fileID: 348227092}
   m_Layer: 0
   m_Name: greyCarpet (240)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10787,7 +10787,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 264
+  m_RootOrder: 266
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &348227092
 MeshCollider:
@@ -10862,7 +10862,7 @@ GameObject:
   - component: {fileID: 348902441}
   m_Layer: 0
   m_Name: greyCarpet (222)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10879,7 +10879,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 243
+  m_RootOrder: 245
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &348902441
 MeshCollider:
@@ -11064,7 +11064,7 @@ GameObject:
   - component: {fileID: 364947367}
   m_Layer: 0
   m_Name: greyCarpet (225)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11081,7 +11081,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 246
+  m_RootOrder: 248
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &364947367
 MeshCollider:
@@ -11362,7 +11362,7 @@ GameObject:
   - component: {fileID: 373155771}
   m_Layer: 0
   m_Name: greyCarpet (94)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11379,7 +11379,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 127
+  m_RootOrder: 128
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &373155771
 MeshCollider:
@@ -11454,7 +11454,7 @@ GameObject:
   - component: {fileID: 375042204}
   m_Layer: 0
   m_Name: greyCarpet (267)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11471,7 +11471,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 300
+  m_RootOrder: 302
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &375042204
 MeshCollider:
@@ -11861,7 +11861,7 @@ GameObject:
   - component: {fileID: 386185267}
   m_Layer: 0
   m_Name: greyCarpet (218)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11878,7 +11878,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 239
+  m_RootOrder: 241
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &386185267
 MeshCollider:
@@ -12079,7 +12079,7 @@ GameObject:
   - component: {fileID: 393546184}
   m_Layer: 0
   m_Name: greyCarpet (117)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12096,7 +12096,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 150
+  m_RootOrder: 152
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &393546184
 MeshCollider:
@@ -12463,7 +12463,7 @@ GameObject:
   - component: {fileID: 402007613}
   m_Layer: 0
   m_Name: greyCarpet (147)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12480,7 +12480,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 180
+  m_RootOrder: 182
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &402007613
 MeshCollider:
@@ -12837,7 +12837,7 @@ GameObject:
   - component: {fileID: 416314588}
   m_Layer: 0
   m_Name: greyCarpet (112)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12854,7 +12854,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 145
+  m_RootOrder: 147
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &416314588
 MeshCollider:
@@ -13413,7 +13413,7 @@ GameObject:
   - component: {fileID: 441089675}
   m_Layer: 0
   m_Name: greyCarpet (101)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13430,7 +13430,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 134
+  m_RootOrder: 136
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &441089675
 MeshCollider:
@@ -14122,7 +14122,8 @@ PrefabInstance:
         type: 3}
       propertyPath: bulletObject
       value: 
-      objectReference: {fileID: 335985755}
+      objectReference: {fileID: 2019992688667494714, guid: e3ff9bf93b18fb0428e67eac0380ab5a,
+        type: 3}
     - target: {fileID: 1319910705852173668, guid: beff84606164e934abd2a1427c7fd705,
         type: 3}
       propertyPath: grid
@@ -14252,7 +14253,7 @@ GameObject:
   - component: {fileID: 459204380}
   m_Layer: 0
   m_Name: greyCarpet (125)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14269,7 +14270,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 158
+  m_RootOrder: 160
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &459204380
 MeshCollider:
@@ -14737,7 +14738,7 @@ GameObject:
   - component: {fileID: 470254116}
   m_Layer: 0
   m_Name: greyCarpet (220)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14754,7 +14755,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 241
+  m_RootOrder: 243
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &470254116
 MeshCollider:
@@ -14921,7 +14922,7 @@ GameObject:
   - component: {fileID: 479594536}
   m_Layer: 0
   m_Name: greyCarpet (237)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14938,7 +14939,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 252
+  m_RootOrder: 254
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &479594536
 MeshCollider:
@@ -15105,7 +15106,7 @@ GameObject:
   - component: {fileID: 481269848}
   m_Layer: 0
   m_Name: greyCarpet (264)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15122,7 +15123,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 297
+  m_RootOrder: 299
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &481269848
 MeshCollider:
@@ -15295,7 +15296,7 @@ GameObject:
   - component: {fileID: 490134814}
   m_Layer: 0
   m_Name: greyCarpet (271)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15312,7 +15313,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 304
+  m_RootOrder: 306
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &490134814
 MeshCollider:
@@ -15577,7 +15578,7 @@ GameObject:
   - component: {fileID: 494307581}
   m_Layer: 0
   m_Name: greyCarpet (228)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15594,7 +15595,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 263
+  m_RootOrder: 265
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &494307581
 MeshCollider:
@@ -15850,7 +15851,7 @@ GameObject:
   - component: {fileID: 501094814}
   m_Layer: 0
   m_Name: greyCarpet (177)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15867,7 +15868,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 210
+  m_RootOrder: 212
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &501094814
 MeshCollider:
@@ -15954,7 +15955,7 @@ GameObject:
   - component: {fileID: 510934941}
   m_Layer: 0
   m_Name: greyCarpet (226)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15971,7 +15972,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 261
+  m_RootOrder: 263
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &510934941
 MeshCollider:
@@ -16138,7 +16139,7 @@ GameObject:
   - component: {fileID: 518314455}
   m_Layer: 0
   m_Name: greyCarpet (113)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16155,7 +16156,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 146
+  m_RootOrder: 148
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &518314455
 MeshCollider:
@@ -16236,7 +16237,7 @@ GameObject:
   - component: {fileID: 522194916}
   m_Layer: 0
   m_Name: greyCarpet (273)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16253,7 +16254,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 306
+  m_RootOrder: 308
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &522194916
 MeshCollider:
@@ -16328,7 +16329,7 @@ GameObject:
   - component: {fileID: 525214098}
   m_Layer: 0
   m_Name: greyCarpet (163)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16345,7 +16346,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 196
+  m_RootOrder: 198
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &525214098
 MeshCollider:
@@ -16509,7 +16510,7 @@ GameObject:
   - component: {fileID: 532857606}
   m_Layer: 0
   m_Name: greyCarpet (231)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16526,7 +16527,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 276
+  m_RootOrder: 278
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &532857606
 MeshCollider:
@@ -16601,7 +16602,7 @@ GameObject:
   - component: {fileID: 534012200}
   m_Layer: 0
   m_Name: greyCarpet (154)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16618,7 +16619,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 187
+  m_RootOrder: 189
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &534012200
 MeshCollider:
@@ -16975,7 +16976,7 @@ GameObject:
   - component: {fileID: 545743394}
   m_Layer: 0
   m_Name: greyCarpet (182)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16992,7 +16993,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 215
+  m_RootOrder: 217
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &545743394
 MeshCollider:
@@ -17067,7 +17068,7 @@ GameObject:
   - component: {fileID: 549889746}
   m_Layer: 0
   m_Name: greyCarpet (91)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17084,7 +17085,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 124
+  m_RootOrder: 125
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &549889746
 MeshCollider:
@@ -17793,7 +17794,7 @@ GameObject:
   - component: {fileID: 574424535}
   m_Layer: 0
   m_Name: greyCarpet (103)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17810,7 +17811,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 136
+  m_RootOrder: 138
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &574424535
 MeshCollider:
@@ -17885,7 +17886,7 @@ GameObject:
   - component: {fileID: 577448746}
   m_Layer: 0
   m_Name: greyCarpet (249)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17902,7 +17903,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 282
+  m_RootOrder: 284
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &577448746
 MeshCollider:
@@ -18827,7 +18828,7 @@ GameObject:
   - component: {fileID: 596140228}
   m_Layer: 0
   m_Name: greyCarpet (197)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18844,7 +18845,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 259
+  m_RootOrder: 261
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &596140228
 MeshCollider:
@@ -19017,7 +19018,7 @@ GameObject:
   - component: {fileID: 608096623}
   m_Layer: 0
   m_Name: greyCarpet (120)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19034,7 +19035,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 153
+  m_RootOrder: 155
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &608096623
 MeshCollider:
@@ -19566,7 +19567,7 @@ GameObject:
   - component: {fileID: 623340184}
   m_Layer: 0
   m_Name: greyCarpet (217)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19583,7 +19584,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 238
+  m_RootOrder: 240
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &623340184
 MeshCollider:
@@ -19750,7 +19751,7 @@ GameObject:
   - component: {fileID: 631077347}
   m_Layer: 0
   m_Name: greyCarpet (205)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19767,7 +19768,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 227
+  m_RootOrder: 229
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &631077347
 MeshCollider:
@@ -19956,7 +19957,7 @@ GameObject:
   - component: {fileID: 637758908}
   m_Layer: 0
   m_Name: greyCarpet (184)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19973,7 +19974,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 255
+  m_RootOrder: 257
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &637758908
 MeshCollider:
@@ -20054,7 +20055,7 @@ GameObject:
   - component: {fileID: 647491606}
   m_Layer: 0
   m_Name: greyCarpet (259)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20071,7 +20072,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 292
+  m_RootOrder: 294
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &647491606
 MeshCollider:
@@ -20146,7 +20147,7 @@ GameObject:
   - component: {fileID: 647624240}
   m_Layer: 0
   m_Name: greyCarpet (146)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20163,7 +20164,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 179
+  m_RootOrder: 181
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &647624240
 MeshCollider:
@@ -20238,7 +20239,7 @@ GameObject:
   - component: {fileID: 651126872}
   m_Layer: 0
   m_Name: greyCarpet (81)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20255,7 +20256,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 114
+  m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &651126872
 MeshCollider:
@@ -20422,7 +20423,7 @@ GameObject:
   - component: {fileID: 662167759}
   m_Layer: 0
   m_Name: greyCarpet (189)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20439,7 +20440,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 270
+  m_RootOrder: 272
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &662167759
 MeshCollider:
@@ -20977,7 +20978,7 @@ GameObject:
   - component: {fileID: 684388689}
   m_Layer: 0
   m_Name: greyCarpet (173)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20994,7 +20995,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 206
+  m_RootOrder: 208
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &684388689
 MeshCollider:
@@ -21069,7 +21070,7 @@ GameObject:
   - component: {fileID: 686041015}
   m_Layer: 0
   m_Name: greyCarpet (148)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21086,7 +21087,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 181
+  m_RootOrder: 183
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &686041015
 MeshCollider:
@@ -21443,7 +21444,7 @@ GameObject:
   - component: {fileID: 708157314}
   m_Layer: 0
   m_Name: greyCarpet (140)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21460,7 +21461,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 173
+  m_RootOrder: 175
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &708157314
 MeshCollider:
@@ -21535,7 +21536,7 @@ GameObject:
   - component: {fileID: 708616056}
   m_Layer: 0
   m_Name: greyCarpet (239)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21552,7 +21553,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 254
+  m_RootOrder: 256
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &708616056
 MeshCollider:
@@ -21627,7 +21628,7 @@ GameObject:
   - component: {fileID: 712158249}
   m_Layer: 0
   m_Name: greyCarpet (258)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21644,7 +21645,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 291
+  m_RootOrder: 293
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &712158249
 MeshCollider:
@@ -21719,7 +21720,7 @@ GameObject:
   - component: {fileID: 712884612}
   m_Layer: 0
   m_Name: greyCarpet (227)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21736,7 +21737,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 262
+  m_RootOrder: 264
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &712884612
 MeshCollider:
@@ -22367,7 +22368,7 @@ GameObject:
   - component: {fileID: 743720371}
   m_Layer: 0
   m_Name: greyCarpet (111)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22384,7 +22385,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 144
+  m_RootOrder: 146
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &743720371
 MeshCollider:
@@ -22459,7 +22460,7 @@ GameObject:
   - component: {fileID: 744518323}
   m_Layer: 0
   m_Name: greyCarpet (244)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22476,7 +22477,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 277
+  m_RootOrder: 279
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &744518323
 MeshCollider:
@@ -22551,7 +22552,7 @@ GameObject:
   - component: {fileID: 745429095}
   m_Layer: 0
   m_Name: greyCarpet (105)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22568,7 +22569,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 138
+  m_RootOrder: 140
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &745429095
 MeshCollider:
@@ -22865,7 +22866,7 @@ GameObject:
   - component: {fileID: 757583854}
   m_Layer: 0
   m_Name: greyCarpet (133)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22882,7 +22883,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 166
+  m_RootOrder: 168
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &757583854
 MeshCollider:
@@ -22957,7 +22958,7 @@ GameObject:
   - component: {fileID: 757956120}
   m_Layer: 0
   m_Name: greyCarpet (200)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22974,7 +22975,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 223
+  m_RootOrder: 225
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &757956120
 MeshCollider:
@@ -23635,7 +23636,7 @@ GameObject:
   - component: {fileID: 772184999}
   m_Layer: 0
   m_Name: greyCarpet (175)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23652,7 +23653,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 208
+  m_RootOrder: 210
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &772184999
 MeshCollider:
@@ -24193,7 +24194,7 @@ GameObject:
   - component: {fileID: 792132122}
   m_Layer: 0
   m_Name: greyCarpet (143)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24210,7 +24211,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 176
+  m_RootOrder: 178
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &792132122
 MeshCollider:
@@ -24976,7 +24977,7 @@ GameObject:
   - component: {fileID: 824268549}
   m_Layer: 0
   m_Name: greyCarpet (185)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24993,7 +24994,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 256
+  m_RootOrder: 258
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &824268549
 MeshCollider:
@@ -25160,7 +25161,7 @@ GameObject:
   - component: {fileID: 828892122}
   m_Layer: 0
   m_Name: greyCarpet (115)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25177,7 +25178,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 148
+  m_RootOrder: 150
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &828892122
 MeshCollider:
@@ -25252,7 +25253,7 @@ GameObject:
   - component: {fileID: 830355602}
   m_Layer: 0
   m_Name: greyCarpet (162)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25269,7 +25270,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 195
+  m_RootOrder: 197
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &830355602
 MeshCollider:
@@ -25344,7 +25345,7 @@ GameObject:
   - component: {fileID: 832006332}
   m_Layer: 0
   m_Name: greyCarpet (216)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25361,7 +25362,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 237
+  m_RootOrder: 239
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &832006332
 MeshCollider:
@@ -25442,7 +25443,7 @@ GameObject:
   - component: {fileID: 833722421}
   m_Layer: 0
   m_Name: greyCarpet (152)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25459,7 +25460,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 185
+  m_RootOrder: 187
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &833722421
 MeshCollider:
@@ -25540,7 +25541,7 @@ GameObject:
   - component: {fileID: 848689270}
   m_Layer: 0
   m_Name: greyCarpet (223)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25557,7 +25558,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 244
+  m_RootOrder: 246
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &848689270
 MeshCollider:
@@ -25632,7 +25633,7 @@ GameObject:
   - component: {fileID: 849376565}
   m_Layer: 0
   m_Name: greyCarpet (263)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25649,7 +25650,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 296
+  m_RootOrder: 298
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &849376565
 MeshCollider:
@@ -26505,7 +26506,7 @@ GameObject:
   - component: {fileID: 895121006}
   m_Layer: 0
   m_Name: greyCarpet (277)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27693,7 +27694,7 @@ GameObject:
   - component: {fileID: 941633656}
   m_Layer: 0
   m_Name: greyCarpet (272)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27710,7 +27711,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 305
+  m_RootOrder: 307
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &941633656
 MeshCollider:
@@ -27972,7 +27973,7 @@ GameObject:
   - component: {fileID: 946847362}
   m_Layer: 0
   m_Name: greyCarpet (210)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27989,7 +27990,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 232
+  m_RootOrder: 234
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &946847362
 MeshCollider:
@@ -28400,7 +28401,7 @@ GameObject:
   - component: {fileID: 961686663}
   m_Layer: 0
   m_Name: greyCarpet (85)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28417,7 +28418,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 118
+  m_RootOrder: 119
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &961686663
 MeshCollider:
@@ -28748,7 +28749,7 @@ GameObject:
   - component: {fileID: 973543897}
   m_Layer: 0
   m_Name: greyCarpet (180)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28765,7 +28766,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 213
+  m_RootOrder: 215
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &973543897
 MeshCollider:
@@ -28932,7 +28933,7 @@ GameObject:
   - component: {fileID: 977220722}
   m_Layer: 0
   m_Name: greyCarpet (174)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28949,7 +28950,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 207
+  m_RootOrder: 209
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &977220722
 MeshCollider:
@@ -29300,7 +29301,7 @@ GameObject:
   - component: {fileID: 994704345}
   m_Layer: 0
   m_Name: greyCarpet (179)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29317,7 +29318,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 212
+  m_RootOrder: 214
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &994704345
 MeshCollider:
@@ -29392,7 +29393,7 @@ GameObject:
   - component: {fileID: 998576422}
   m_Layer: 0
   m_Name: greyCarpet (246)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29409,7 +29410,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 279
+  m_RootOrder: 281
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &998576422
 MeshCollider:
@@ -29563,7 +29564,7 @@ GameObject:
   - component: {fileID: 1002820020}
   m_Layer: 0
   m_Name: greyCarpet (229)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29580,7 +29581,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 274
+  m_RootOrder: 276
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1002820020
 MeshCollider:
@@ -30078,7 +30079,7 @@ GameObject:
   - component: {fileID: 1027729678}
   m_Layer: 0
   m_Name: greyCarpet (213)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30095,7 +30096,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 234
+  m_RootOrder: 236
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1027729678
 MeshCollider:
@@ -30284,7 +30285,7 @@ GameObject:
   - component: {fileID: 1033697440}
   m_Layer: 0
   m_Name: greyCarpet (232)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30301,7 +30302,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 247
+  m_RootOrder: 249
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1033697440
 MeshCollider:
@@ -30557,7 +30558,7 @@ GameObject:
   - component: {fileID: 1040241715}
   m_Layer: 0
   m_Name: greyCarpet (136)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30574,7 +30575,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 169
+  m_RootOrder: 171
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1040241715
 MeshCollider:
@@ -30753,7 +30754,7 @@ GameObject:
   - component: {fileID: 1046602664}
   m_Layer: 0
   m_Name: greyCarpet (108)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30770,7 +30771,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 141
+  m_RootOrder: 143
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1046602664
 MeshCollider:
@@ -30857,7 +30858,7 @@ GameObject:
   - component: {fileID: 1052816551}
   m_Layer: 0
   m_Name: greyCarpet (119)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30874,7 +30875,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 152
+  m_RootOrder: 154
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1052816551
 MeshCollider:
@@ -30949,7 +30950,7 @@ GameObject:
   - component: {fileID: 1056632089}
   m_Layer: 0
   m_Name: greyCarpet (242)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30966,7 +30967,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 266
+  m_RootOrder: 268
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1056632089
 MeshCollider:
@@ -31205,7 +31206,7 @@ GameObject:
   - component: {fileID: 1071005348}
   m_Layer: 0
   m_Name: greyCarpet (254)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31222,7 +31223,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 287
+  m_RootOrder: 289
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1071005348
 MeshCollider:
@@ -31297,7 +31298,7 @@ GameObject:
   - component: {fileID: 1074849036}
   m_Layer: 0
   m_Name: greyCarpet (284)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31785,7 +31786,7 @@ GameObject:
   - component: {fileID: 1100596604}
   m_Layer: 0
   m_Name: greyCarpet (122)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31802,7 +31803,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 155
+  m_RootOrder: 157
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1100596604
 MeshCollider:
@@ -32611,6 +32612,7 @@ Transform:
   - {fileID: 1566803551}
   - {fileID: 276353639}
   - {fileID: 1283641053}
+  - {fileID: 2075243627}
   - {fileID: 651126871}
   - {fileID: 2143009028}
   - {fileID: 256384705}
@@ -32629,7 +32631,8 @@ Transform:
   - {fileID: 134659917}
   - {fileID: 2004829493}
   - {fileID: 34272136}
-  - {fileID: 2075243627}
+  - {fileID: 114551489}
+  - {fileID: 2024258522}
   - {fileID: 2093757350}
   - {fileID: 441089674}
   - {fileID: 1517103849}
@@ -32804,8 +32807,6 @@ Transform:
   - {fileID: 490134813}
   - {fileID: 941633655}
   - {fileID: 522194915}
-  - {fileID: 114551489}
-  - {fileID: 2024258522}
   - {fileID: 1491483356}
   - {fileID: 895121005}
   - {fileID: 2007128202}
@@ -33017,7 +33018,7 @@ GameObject:
   - component: {fileID: 1112296628}
   m_Layer: 0
   m_Name: greyCarpet (137)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33034,7 +33035,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 170
+  m_RootOrder: 172
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1112296628
 MeshCollider:
@@ -33232,7 +33233,7 @@ GameObject:
   - component: {fileID: 1117898387}
   m_Layer: 0
   m_Name: greyCarpet (134)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33249,7 +33250,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 167
+  m_RootOrder: 169
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1117898387
 MeshCollider:
@@ -33422,7 +33423,7 @@ GameObject:
   - component: {fileID: 1123734553}
   m_Layer: 0
   m_Name: greyCarpet (207)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33439,7 +33440,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 229
+  m_RootOrder: 231
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1123734553
 MeshCollider:
@@ -33514,7 +33515,7 @@ GameObject:
   - component: {fileID: 1125744419}
   m_Layer: 0
   m_Name: greyCarpet (215)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33531,7 +33532,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 236
+  m_RootOrder: 238
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1125744419
 MeshCollider:
@@ -34072,7 +34073,7 @@ GameObject:
   - component: {fileID: 1140927472}
   m_Layer: 0
   m_Name: greyCarpet (139)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34089,7 +34090,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 172
+  m_RootOrder: 174
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1140927472
 MeshCollider:
@@ -34221,7 +34222,7 @@ GameObject:
   - component: {fileID: 1145069155}
   m_Layer: 0
   m_Name: greyCarpet (211)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34238,7 +34239,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 273
+  m_RootOrder: 275
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1145069155
 MeshCollider:
@@ -34313,7 +34314,7 @@ GameObject:
   - component: {fileID: 1146697493}
   m_Layer: 0
   m_Name: greyCarpet (194)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34330,7 +34331,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 221
+  m_RootOrder: 223
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1146697493
 MeshCollider:
@@ -34411,7 +34412,7 @@ GameObject:
   - component: {fileID: 1153590322}
   m_Layer: 0
   m_Name: greyCarpet (176)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34428,7 +34429,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 209
+  m_RootOrder: 211
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1153590322
 MeshCollider:
@@ -34495,6 +34496,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1038323727}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1158101337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8577322935929200028, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_Name
+      value: SoundManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163937861173548526, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 420.71146
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 136.99495
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.657349
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577322935929200030, guid: fa0c12754ddefa248900e1e58a56f438,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa0c12754ddefa248900e1e58a56f438, type: 3}
 --- !u!1001 &1161000771
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34598,7 +34673,7 @@ GameObject:
   - component: {fileID: 1161899632}
   m_Layer: 0
   m_Name: greyCarpet (151)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34615,7 +34690,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 184
+  m_RootOrder: 186
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1161899632
 MeshCollider:
@@ -35366,7 +35441,7 @@ GameObject:
   - component: {fileID: 1190955094}
   m_Layer: 0
   m_Name: greyCarpet (93)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35383,7 +35458,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 126
+  m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1190955094
 MeshCollider:
@@ -36090,7 +36165,7 @@ GameObject:
   - component: {fileID: 1237360510}
   m_Layer: 0
   m_Name: greyCarpet (198)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36107,7 +36182,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 260
+  m_RootOrder: 262
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1237360510
 MeshCollider:
@@ -36274,7 +36349,7 @@ GameObject:
   - component: {fileID: 1237969748}
   m_Layer: 0
   m_Name: greyCarpet (138)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36291,7 +36366,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 171
+  m_RootOrder: 173
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1237969748
 MeshCollider:
@@ -36464,7 +36539,7 @@ GameObject:
   - component: {fileID: 1247512436}
   m_Layer: 0
   m_Name: greyCarpet (196)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36481,7 +36556,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 258
+  m_RootOrder: 260
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1247512436
 MeshCollider:
@@ -36740,7 +36815,7 @@ GameObject:
   - component: {fileID: 1251934914}
   m_Layer: 0
   m_Name: greyCarpet (129)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36757,7 +36832,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 162
+  m_RootOrder: 164
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1251934914
 MeshCollider:
@@ -36838,7 +36913,7 @@ GameObject:
   - component: {fileID: 1257402857}
   m_Layer: 0
   m_Name: greyCarpet (106)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36855,7 +36930,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 139
+  m_RootOrder: 141
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1257402857
 MeshCollider:
@@ -37009,7 +37084,7 @@ GameObject:
   - component: {fileID: 1258481138}
   m_Layer: 0
   m_Name: greyCarpet (252)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37026,7 +37101,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 285
+  m_RootOrder: 287
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1258481138
 MeshCollider:
@@ -37101,7 +37176,7 @@ GameObject:
   - component: {fileID: 1259356566}
   m_Layer: 0
   m_Name: greyCarpet (109)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37118,7 +37193,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 142
+  m_RootOrder: 144
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1259356566
 MeshCollider:
@@ -37469,7 +37544,7 @@ GameObject:
   - component: {fileID: 1267665763}
   m_Layer: 0
   m_Name: greyCarpet (142)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37486,7 +37561,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 175
+  m_RootOrder: 177
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1267665763
 MeshCollider:
@@ -37653,7 +37728,7 @@ GameObject:
   - component: {fileID: 1273469674}
   m_Layer: 0
   m_Name: greyCarpet (88)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37670,7 +37745,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 121
+  m_RootOrder: 122
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1273469674
 MeshCollider:
@@ -38199,7 +38274,7 @@ GameObject:
   - component: {fileID: 1299407541}
   m_Layer: 0
   m_Name: greyCarpet (181)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38216,7 +38291,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 214
+  m_RootOrder: 216
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1299407541
 MeshCollider:
@@ -38405,7 +38480,7 @@ GameObject:
   - component: {fileID: 1303458149}
   m_Layer: 0
   m_Name: greyCarpet (241)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38422,7 +38497,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 265
+  m_RootOrder: 267
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1303458149
 MeshCollider:
@@ -38792,7 +38867,7 @@ GameObject:
   - component: {fileID: 1314839014}
   m_Layer: 0
   m_Name: greyCarpet (188)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38809,7 +38884,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 269
+  m_RootOrder: 271
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1314839014
 MeshCollider:
@@ -38976,7 +39051,7 @@ GameObject:
   - component: {fileID: 1318027196}
   m_Layer: 0
   m_Name: greyCarpet (186)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38993,7 +39068,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 257
+  m_RootOrder: 259
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1318027196
 MeshCollider:
@@ -39068,7 +39143,7 @@ GameObject:
   - component: {fileID: 1318750627}
   m_Layer: 0
   m_Name: greyCarpet (158)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39085,7 +39160,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 191
+  m_RootOrder: 193
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1318750627
 MeshCollider:
@@ -39279,7 +39354,7 @@ GameObject:
   - component: {fileID: 1321778850}
   m_Layer: 0
   m_Name: greyCarpet (214)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39296,7 +39371,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 235
+  m_RootOrder: 237
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1321778850
 MeshCollider:
@@ -39371,7 +39446,7 @@ GameObject:
   - component: {fileID: 1324931653}
   m_Layer: 0
   m_Name: greyCarpet (171)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39388,7 +39463,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 204
+  m_RootOrder: 206
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1324931653
 MeshCollider:
@@ -39463,7 +39538,7 @@ GameObject:
   - component: {fileID: 1328780060}
   m_Layer: 0
   m_Name: greyCarpet (178)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39480,7 +39555,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 211
+  m_RootOrder: 213
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1328780060
 MeshCollider:
@@ -40070,7 +40145,7 @@ GameObject:
   - component: {fileID: 1351921684}
   m_Layer: 0
   m_Name: greyCarpet (260)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40087,7 +40162,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 293
+  m_RootOrder: 295
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1351921684
 MeshCollider:
@@ -40349,7 +40424,7 @@ GameObject:
   - component: {fileID: 1359498056}
   m_Layer: 0
   m_Name: greyCarpet (123)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40366,7 +40441,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 156
+  m_RootOrder: 158
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1359498056
 MeshCollider:
@@ -40580,7 +40655,7 @@ GameObject:
   - component: {fileID: 1367594644}
   m_Layer: 0
   m_Name: greyCarpet (262)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40597,7 +40672,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 295
+  m_RootOrder: 297
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1367594644
 MeshCollider:
@@ -42132,7 +42207,7 @@ GameObject:
   - component: {fileID: 1425962993}
   m_Layer: 0
   m_Name: greyCarpet (202)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42149,7 +42224,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 272
+  m_RootOrder: 274
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1425962993
 MeshCollider:
@@ -42811,7 +42886,7 @@ GameObject:
   - component: {fileID: 1443976706}
   m_Layer: 0
   m_Name: greyCarpet (247)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42828,7 +42903,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 280
+  m_RootOrder: 282
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1443976706
 MeshCollider:
@@ -42903,7 +42978,7 @@ GameObject:
   - component: {fileID: 1444145659}
   m_Layer: 0
   m_Name: greyCarpet (89)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42920,7 +42995,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 122
+  m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1444145659
 MeshCollider:
@@ -43578,7 +43653,7 @@ GameObject:
   - component: {fileID: 1473427166}
   m_Layer: 0
   m_Name: greyCarpet (160)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43595,7 +43670,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 193
+  m_RootOrder: 195
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1473427166
 MeshCollider:
@@ -43990,7 +44065,7 @@ GameObject:
   - component: {fileID: 1491483357}
   m_Layer: 0
   m_Name: greyCarpet (276)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44082,7 +44157,7 @@ GameObject:
   - component: {fileID: 1493592934}
   m_Layer: 0
   m_Name: greyCarpet (95)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44099,7 +44174,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 128
+  m_RootOrder: 129
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1493592934
 MeshCollider:
@@ -44281,7 +44356,7 @@ GameObject:
   - component: {fileID: 1502249247}
   m_Layer: 0
   m_Name: greyCarpet (219)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44298,7 +44373,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 240
+  m_RootOrder: 242
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1502249247
 MeshCollider:
@@ -44947,7 +45022,7 @@ GameObject:
   - component: {fileID: 1515778578}
   m_Layer: 0
   m_Name: greyCarpet (132)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44964,7 +45039,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 165
+  m_RootOrder: 167
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1515778578
 MeshCollider:
@@ -45039,7 +45114,7 @@ GameObject:
   - component: {fileID: 1515782636}
   m_Layer: 0
   m_Name: greyCarpet (199)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45056,7 +45131,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 271
+  m_RootOrder: 273
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1515782636
 MeshCollider:
@@ -45131,7 +45206,7 @@ GameObject:
   - component: {fileID: 1517103850}
   m_Layer: 0
   m_Name: greyCarpet (102)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45148,7 +45223,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 135
+  m_RootOrder: 137
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1517103850
 MeshCollider:
@@ -45223,7 +45298,7 @@ GameObject:
   - component: {fileID: 1518263011}
   m_Layer: 0
   m_Name: greyCarpet (193)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45240,7 +45315,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 220
+  m_RootOrder: 222
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1518263011
 MeshCollider:
@@ -45404,7 +45479,7 @@ GameObject:
   - component: {fileID: 1518965964}
   m_Layer: 0
   m_Name: greyCarpet (261)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45421,7 +45496,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 294
+  m_RootOrder: 296
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1518965964
 MeshCollider:
@@ -46089,7 +46164,7 @@ GameObject:
   - component: {fileID: 1534235475}
   m_Layer: 0
   m_Name: greyCarpet (86)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46106,7 +46181,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 119
+  m_RootOrder: 120
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1534235475
 MeshCollider:
@@ -46412,7 +46487,7 @@ GameObject:
   - component: {fileID: 1541015415}
   m_Layer: 0
   m_Name: greyCarpet (187)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46429,7 +46504,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 268
+  m_RootOrder: 270
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1541015415
 MeshCollider:
@@ -46596,7 +46671,7 @@ GameObject:
   - component: {fileID: 1544537591}
   m_Layer: 0
   m_Name: greyCarpet (118)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46613,7 +46688,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 151
+  m_RootOrder: 153
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1544537591
 MeshCollider:
@@ -47151,7 +47226,7 @@ GameObject:
   - component: {fileID: 1565288087}
   m_Layer: 0
   m_Name: greyCarpet (141)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47168,7 +47243,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 174
+  m_RootOrder: 176
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1565288087
 MeshCollider:
@@ -47255,7 +47330,7 @@ GameObject:
   - component: {fileID: 1571973409}
   m_Layer: 0
   m_Name: greyCarpet (280)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47625,6 +47700,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: chancla
       objectReference: {fileID: 0}
+    - target: {fileID: 2019992688667494714, guid: e3ff9bf93b18fb0428e67eac0380ab5a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3553844861502274782, guid: e3ff9bf93b18fb0428e67eac0380ab5a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -47710,7 +47790,7 @@ GameObject:
   - component: {fileID: 1584830415}
   m_Layer: 0
   m_Name: greyCarpet (159)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47727,7 +47807,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 192
+  m_RootOrder: 194
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1584830415
 MeshCollider:
@@ -48305,7 +48385,7 @@ GameObject:
   - component: {fileID: 1608135299}
   m_Layer: 0
   m_Name: greyCarpet (172)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48322,7 +48402,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 205
+  m_RootOrder: 207
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1608135299
 MeshCollider:
@@ -48489,7 +48569,7 @@ GameObject:
   - component: {fileID: 1619698041}
   m_Layer: 0
   m_Name: greyCarpet (282)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48789,7 +48869,7 @@ GameObject:
   - component: {fileID: 1638042103}
   m_Layer: 0
   m_Name: greyCarpet (253)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48806,7 +48886,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 286
+  m_RootOrder: 288
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1638042103
 MeshCollider:
@@ -48973,7 +49053,7 @@ GameObject:
   - component: {fileID: 1642145667}
   m_Layer: 0
   m_Name: greyCarpet (110)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48990,7 +49070,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 143
+  m_RootOrder: 145
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1642145667
 MeshCollider:
@@ -49926,7 +50006,7 @@ GameObject:
   - component: {fileID: 1680647492}
   m_Layer: 0
   m_Name: greyCarpet (255)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49943,7 +50023,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 288
+  m_RootOrder: 290
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1680647492
 MeshCollider:
@@ -50484,7 +50564,7 @@ GameObject:
   - component: {fileID: 1699993173}
   m_Layer: 0
   m_Name: greyCarpet (166)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50501,7 +50581,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 199
+  m_RootOrder: 201
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1699993173
 MeshCollider:
@@ -50668,7 +50748,7 @@ GameObject:
   - component: {fileID: 1714202999}
   m_Layer: 0
   m_Name: greyCarpet (279)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50760,7 +50840,7 @@ GameObject:
   - component: {fileID: 1723616266}
   m_Layer: 0
   m_Name: greyCarpet (281)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50852,7 +50932,7 @@ GameObject:
   - component: {fileID: 1728610936}
   m_Layer: 0
   m_Name: greyCarpet (270)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50869,7 +50949,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 303
+  m_RootOrder: 305
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1728610936
 MeshCollider:
@@ -51214,7 +51294,7 @@ GameObject:
   - component: {fileID: 1737508683}
   m_Layer: 0
   m_Name: greyCarpet (167)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51231,7 +51311,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 200
+  m_RootOrder: 202
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1737508683
 MeshCollider:
@@ -51404,7 +51484,7 @@ GameObject:
   - component: {fileID: 1744219674}
   m_Layer: 0
   m_Name: greyCarpet (157)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51421,7 +51501,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 190
+  m_RootOrder: 192
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1744219674
 MeshCollider:
@@ -51984,7 +52064,7 @@ GameObject:
   - component: {fileID: 1758801977}
   m_Layer: 0
   m_Name: greyCarpet (286)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52455,7 +52535,7 @@ GameObject:
   - component: {fileID: 1767516044}
   m_Layer: 0
   m_Name: greyCarpet (208)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52472,7 +52552,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 230
+  m_RootOrder: 232
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1767516044
 MeshCollider:
@@ -52753,7 +52833,7 @@ GameObject:
   - component: {fileID: 1775107912}
   m_Layer: 0
   m_Name: greyCarpet (243)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52770,7 +52850,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 267
+  m_RootOrder: 269
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1775107912
 MeshCollider:
@@ -52851,7 +52931,7 @@ GameObject:
   - component: {fileID: 1777739598}
   m_Layer: 0
   m_Name: greyCarpet (191)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52868,7 +52948,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 218
+  m_RootOrder: 220
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1777739598
 MeshCollider:
@@ -53225,7 +53305,7 @@ GameObject:
   - component: {fileID: 1787531592}
   m_Layer: 0
   m_Name: greyCarpet (153)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53242,7 +53322,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 186
+  m_RootOrder: 188
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1787531592
 MeshCollider:
@@ -53529,7 +53609,7 @@ GameObject:
   - component: {fileID: 1794218499}
   m_Layer: 0
   m_Name: greyCarpet (124)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53546,7 +53626,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 157
+  m_RootOrder: 159
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1794218499
 MeshCollider:
@@ -53713,7 +53793,7 @@ GameObject:
   - component: {fileID: 1801752376}
   m_Layer: 0
   m_Name: greyCarpet (135)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53730,7 +53810,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 168
+  m_RootOrder: 170
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1801752376
 MeshCollider:
@@ -54826,7 +54906,7 @@ GameObject:
   - component: {fileID: 1821103759}
   m_Layer: 0
   m_Name: greyCarpet (192)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54843,7 +54923,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 219
+  m_RootOrder: 221
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1821103759
 MeshCollider:
@@ -55222,7 +55302,7 @@ GameObject:
   - component: {fileID: 1833622770}
   m_Layer: 0
   m_Name: greyCarpet (204)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55239,7 +55319,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 226
+  m_RootOrder: 228
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1833622770
 MeshCollider:
@@ -55575,7 +55655,7 @@ GameObject:
   - component: {fileID: 1876059707}
   m_Layer: 0
   m_Name: greyCarpet (238)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55592,7 +55672,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 253
+  m_RootOrder: 255
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1876059707
 MeshCollider:
@@ -55667,7 +55747,7 @@ GameObject:
   - component: {fileID: 1876337465}
   m_Layer: 0
   m_Name: greyCarpet (155)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55684,7 +55764,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 188
+  m_RootOrder: 190
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1876337465
 MeshCollider:
@@ -55908,7 +55988,7 @@ GameObject:
   - component: {fileID: 1877919811}
   m_Layer: 0
   m_Name: greyCarpet (221)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55925,7 +56005,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 242
+  m_RootOrder: 244
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1877919811
 MeshCollider:
@@ -56267,7 +56347,7 @@ GameObject:
   - component: {fileID: 1884112721}
   m_Layer: 0
   m_Name: greyCarpet (234)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56284,7 +56364,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 249
+  m_RootOrder: 251
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1884112721
 MeshCollider:
@@ -56543,7 +56623,7 @@ GameObject:
   - component: {fileID: 1887417827}
   m_Layer: 0
   m_Name: greyCarpet (104)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56560,7 +56640,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 137
+  m_RootOrder: 139
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1887417827
 MeshCollider:
@@ -56709,7 +56789,7 @@ GameObject:
   - component: {fileID: 1892485931}
   m_Layer: 0
   m_Name: greyCarpet (87)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56726,7 +56806,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 120
+  m_RootOrder: 121
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1892485931
 MeshCollider:
@@ -57143,7 +57223,7 @@ GameObject:
   - component: {fileID: 1897941270}
   m_Layer: 0
   m_Name: greyCarpet (84)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57160,7 +57240,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 117
+  m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1897941270
 MeshCollider:
@@ -57422,7 +57502,7 @@ GameObject:
   - component: {fileID: 1916674523}
   m_Layer: 0
   m_Name: greyCarpet (92)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57439,7 +57519,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 125
+  m_RootOrder: 126
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1916674523
 MeshCollider:
@@ -57824,7 +57904,7 @@ GameObject:
   - component: {fileID: 1937391771}
   m_Layer: 0
   m_Name: greyCarpet (257)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57841,7 +57921,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 290
+  m_RootOrder: 292
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1937391771
 MeshCollider:
@@ -58201,7 +58281,7 @@ GameObject:
   - component: {fileID: 1950637994}
   m_Layer: 0
   m_Name: greyCarpet (212)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58218,7 +58298,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 233
+  m_RootOrder: 235
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1950637994
 MeshCollider:
@@ -58293,7 +58373,7 @@ GameObject:
   - component: {fileID: 1950742070}
   m_Layer: 0
   m_Name: greyCarpet (248)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58310,7 +58390,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 281
+  m_RootOrder: 283
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1950742070
 MeshCollider:
@@ -58477,7 +58557,7 @@ GameObject:
   - component: {fileID: 1959219733}
   m_Layer: 0
   m_Name: greyCarpet (170)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58494,7 +58574,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 203
+  m_RootOrder: 205
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1959219733
 MeshCollider:
@@ -58569,7 +58649,7 @@ GameObject:
   - component: {fileID: 1962621434}
   m_Layer: 0
   m_Name: greyCarpet (266)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58586,7 +58666,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 299
+  m_RootOrder: 301
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1962621434
 MeshCollider:
@@ -58661,7 +58741,7 @@ GameObject:
   - component: {fileID: 1963339008}
   m_Layer: 0
   m_Name: greyCarpet (169)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58678,7 +58758,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 202
+  m_RootOrder: 204
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1963339008
 MeshCollider:
@@ -58753,7 +58833,7 @@ GameObject:
   - component: {fileID: 1969256765}
   m_Layer: 0
   m_Name: greyCarpet (230)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58770,7 +58850,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 275
+  m_RootOrder: 277
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1969256765
 MeshCollider:
@@ -58845,7 +58925,7 @@ GameObject:
   - component: {fileID: 1970708393}
   m_Layer: 0
   m_Name: greyCarpet (126)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58862,7 +58942,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 159
+  m_RootOrder: 161
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1970708393
 MeshCollider:
@@ -58937,7 +59017,7 @@ GameObject:
   - component: {fileID: 1971213802}
   m_Layer: 0
   m_Name: greyCarpet (150)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -58954,7 +59034,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 183
+  m_RootOrder: 185
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1971213802
 MeshCollider:
@@ -59121,7 +59201,7 @@ GameObject:
   - component: {fileID: 1981144817}
   m_Layer: 0
   m_Name: greyCarpet (206)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59138,7 +59218,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 228
+  m_RootOrder: 230
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1981144817
 MeshCollider:
@@ -59219,7 +59299,7 @@ GameObject:
   - component: {fileID: 1983082135}
   m_Layer: 0
   m_Name: greyCarpet (235)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59236,7 +59316,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 250
+  m_RootOrder: 252
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1983082135
 MeshCollider:
@@ -59495,7 +59575,7 @@ GameObject:
   - component: {fileID: 1994120316}
   m_Layer: 0
   m_Name: greyCarpet (161)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59512,7 +59592,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 194
+  m_RootOrder: 196
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &1994120316
 MeshCollider:
@@ -59676,7 +59756,7 @@ GameObject:
   - component: {fileID: 2001089425}
   m_Layer: 0
   m_Name: greyCarpet (251)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59693,7 +59773,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 284
+  m_RootOrder: 286
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2001089425
 MeshCollider:
@@ -59860,7 +59940,7 @@ GameObject:
   - component: {fileID: 2004829494}
   m_Layer: 0
   m_Name: greyCarpet (97)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59877,7 +59957,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 130
+  m_RootOrder: 131
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2004829494
 MeshCollider:
@@ -59952,7 +60032,7 @@ GameObject:
   - component: {fileID: 2007128203}
   m_Layer: 0
   m_Name: greyCarpet (278)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60044,7 +60124,7 @@ GameObject:
   - component: {fileID: 2007748611}
   m_Layer: 0
   m_Name: greyCarpet (236)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60061,7 +60141,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 251
+  m_RootOrder: 253
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2007748611
 MeshCollider:
@@ -60605,7 +60685,7 @@ GameObject:
   - component: {fileID: 2023004233}
   m_Layer: 0
   m_Name: greyCarpet (168)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60622,7 +60702,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 201
+  m_RootOrder: 203
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2023004233
 MeshCollider:
@@ -60697,7 +60777,7 @@ GameObject:
   - component: {fileID: 2024258523}
   m_Layer: 0
   m_Name: greyCarpet (275)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60714,7 +60794,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 308
+  m_RootOrder: 134
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2024258523
 MeshCollider:
@@ -60789,7 +60869,7 @@ GameObject:
   - component: {fileID: 2029965354}
   m_Layer: 0
   m_Name: greyCarpet (183)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60806,7 +60886,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 216
+  m_RootOrder: 218
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2029965354
 MeshCollider:
@@ -61844,7 +61924,7 @@ GameObject:
   - component: {fileID: 2048195142}
   m_Layer: 0
   m_Name: greyCarpet (195)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61861,7 +61941,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 222
+  m_RootOrder: 224
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2048195142
 MeshCollider:
@@ -62028,7 +62108,7 @@ GameObject:
   - component: {fileID: 2058507569}
   m_Layer: 0
   m_Name: greyCarpet (128)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62045,7 +62125,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 161
+  m_RootOrder: 163
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2058507569
 MeshCollider:
@@ -62120,7 +62200,7 @@ GameObject:
   - component: {fileID: 2060487114}
   m_Layer: 0
   m_Name: greyCarpet (269)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62137,7 +62217,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 302
+  m_RootOrder: 304
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2060487114
 MeshCollider:
@@ -62586,7 +62666,7 @@ GameObject:
   - component: {fileID: 2075243628}
   m_Layer: 0
   m_Name: greyCarpet (99)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62603,7 +62683,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 132
+  m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2075243628
 MeshCollider:
@@ -62871,7 +62951,7 @@ GameObject:
   - component: {fileID: 2093757351}
   m_Layer: 0
   m_Name: greyCarpet (100)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62888,7 +62968,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 133
+  m_RootOrder: 135
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2093757351
 MeshCollider:
@@ -63146,7 +63226,7 @@ GameObject:
   - component: {fileID: 2099778657}
   m_Layer: 0
   m_Name: greyCarpet (285)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63330,7 +63410,7 @@ GameObject:
   - component: {fileID: 2106641048}
   m_Layer: 0
   m_Name: greyCarpet (116)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63347,7 +63427,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 149
+  m_RootOrder: 151
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2106641048
 MeshCollider:
@@ -63739,7 +63819,7 @@ GameObject:
   - component: {fileID: 2117495011}
   m_Layer: 0
   m_Name: greyCarpet (149)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63756,7 +63836,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 182
+  m_RootOrder: 184
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2117495011
 MeshCollider:
@@ -64110,7 +64190,7 @@ GameObject:
   - component: {fileID: 2132361331}
   m_Layer: 0
   m_Name: greyCarpet (121)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -64127,7 +64207,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 154
+  m_RootOrder: 156
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2132361331
 MeshCollider:
@@ -64306,7 +64386,7 @@ GameObject:
   - component: {fileID: 2143009029}
   m_Layer: 0
   m_Name: greyCarpet (82)
-  m_TagString: Untagged
+  m_TagString: carpetTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -64323,7 +64403,7 @@ Transform:
   m_LocalScale: {x: 0.099999994, y: 1, z: 0.10000005}
   m_Children: []
   m_Father: {fileID: 1111264581}
-  m_RootOrder: 115
+  m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!64 &2143009029
 MeshCollider:

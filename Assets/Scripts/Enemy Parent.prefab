@@ -562,7 +562,8 @@ PrefabInstance:
         type: 3}
       propertyPath: bulletObject
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2019992688667494714, guid: e3ff9bf93b18fb0428e67eac0380ab5a,
+        type: 3}
     - target: {fileID: 1319910705852173668, guid: beff84606164e934abd2a1427c7fd705,
         type: 3}
       propertyPath: grid
