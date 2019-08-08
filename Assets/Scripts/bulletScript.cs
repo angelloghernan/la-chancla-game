@@ -32,6 +32,7 @@ public class bulletScript : MonoBehaviour
             {
                 healthScript.S2.updateHealth(-1);
                 SoundManagerScript.S.PlaySound10();
+
             }
             Destroy(this.gameObject);
         }
