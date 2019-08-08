@@ -24,7 +24,9 @@ public class SoundManagerScript : MonoBehaviour
     public AudioSource sound8;
     public AudioSource sound9;
     public AudioSource sound10;
-
+    public AudioSource sound11;
+    public AudioSource sound12;
+    public AudioSource sound13;
     void Start()
     {
         S = this;
@@ -69,7 +71,19 @@ public class SoundManagerScript : MonoBehaviour
     }
     public void PlaySound10()
     {
-        sound10.Play(); 
+        sound10.Play();
+    }
+    public void PlaySound11()
+    {
+        sound11.Play();
+    }
+    public void PlaySound12()
+    {
+        sound12.Play();
+    }
+    public void PlaySound13()
+    {
+        sound13.Play();
     }
     // Update is called once per frame
     void Update()

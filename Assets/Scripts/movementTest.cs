@@ -21,6 +21,7 @@ public class movementTest : MonoBehaviour
     public int radius;
     public bool isAlive;
     private bool isSprint = false;
+    private bool isCrouch = false;
     GameObject[] nearbyEnemies;
     // Start is called before the first frame update
     void Start()
@@ -62,19 +63,23 @@ public class movementTest : MonoBehaviour
         {
             speed = .2f;
             radius *= 2;
+            isSprint = true;
         }
         else if(Input.GetKeyUp(KeyCode.LeftShift))
         {
+            isSprint = false;
             speed = .1f;
             radius /= 2;
         }
         else if (Input.GetKeyDown(KeyCode.LeftControl))
         {
+            isCrouch = true;
             speed = .05f;
             radius /= 2;
         }
         else if (Input.GetKeyUp(KeyCode.LeftControl))
         {
+            isCrouch = false;
             speed = .1f;
             radius *= 2;
         }
@@ -174,7 +179,7 @@ public class movementTest : MonoBehaviour
             
             MakeWalkingTileNoise();
         }
-        yield return new WaitForSeconds(0.75f);
+        yield return new WaitForSeconds(0.5f);
         StartCoroutine(SoundMaker());
 
     }
@@ -199,6 +204,10 @@ public class movementTest : MonoBehaviour
                     {
                         SoundManagerScript.S.PlaySound5();
                     }
+                    if (isCrouch)
+                    {
+                        SoundManagerScript.S.PlaySound8();
+                    }
                     else
                     {
                         SoundManagerScript.S.PlaySound2();
@@ -211,6 +220,10 @@ public class movementTest : MonoBehaviour
                     {
                         SoundManagerScript.S.PlaySound6();
                     }
+                    if (isCrouch)
+                    {
+                        SoundManagerScript.S.PlaySound9 ();
+                    }
                     else
                     {
                         SoundManagerScript.S.PlaySound3();
@@ -220,6 +233,10 @@ public class movementTest : MonoBehaviour
                     if (isSprint)
                     {
                         SoundManagerScript.S.PlaySound4();
+                    }
+                    if (isCrouch)
+                    {
+                        SoundManagerScript.S.PlaySound7();
                     }
                     else
                     {
