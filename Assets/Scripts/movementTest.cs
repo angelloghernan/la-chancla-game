@@ -62,13 +62,23 @@ public class movementTest : MonoBehaviour
             speed = .2f;
             radius *= 2;
         }
-        if(Input.GetKeyUp(KeyCode.LeftShift))
+        else if(Input.GetKeyUp(KeyCode.LeftShift))
         {
             speed = .1f;
             radius /= 2;
         }
+        else if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            speed = .05f;
+            radius /= 2;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftControl))
+        {
+            speed = .1f;
+            radius *= 2;
+        }
 
-        if(Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W))
         {
             changeDirection(1);
         }

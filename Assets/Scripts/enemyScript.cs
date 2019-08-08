@@ -27,7 +27,6 @@ public class enemyScript : MonoBehaviour
     //private void OnTriggerEnter2D(Collider2D collision)
     private void OnTriggerEnter2D(Collider2D turner)
     {
-        Debug.Log("TRIGGER ENTER");
         if (turner.gameObject.tag == "TurnPoint")
         {
             speed = -speed;
@@ -36,8 +35,6 @@ public class enemyScript : MonoBehaviour
     }
     private void onColliderEnter2D(Collider2D turner)
     {
-        Debug.Log("Trigger Enter Test");
-
 
 
     }
