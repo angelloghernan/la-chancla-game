@@ -2,6 +2,8 @@
 
 A game made by Angello Hernandez, David Useche, and Alonzo Williams for CMU's SAMS program.
 
+Our protagonist, Jebediah, is sneaking out. He must avoid his aunties' thrown chanclas and collect his keys, flowers, and phone so that he can get to his girlfriend for the night. 
+
 Made in Unity. 
 
 Note: The initial commits and their non-descriptiveness have been preserved, so that due credit is given (note that Alonzo's contributions are all the art assets). 
